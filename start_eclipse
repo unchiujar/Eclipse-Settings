@@ -1,0 +1,2 @@
+GTK2_RC_FILES=/usr/share/themes/Orta/gtk-2.0/gtkrc:gtkrc-eclipse "$1" 
+

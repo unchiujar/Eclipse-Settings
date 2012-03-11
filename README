@@ -1,0 +1,10 @@
+A solution for fixing font size in Eclipse under linux.
+The gtkrc file overwrites the font size and type for whatever theme you may be using but
+only for Eclipse. 
+
+Run with 
+
+  ./start_eclipse ECLIPSE_START_COMMAND
+
+
+Taken from http://techtavern.wordpress.com/2008/09/24/smaller-font-sizes-for-eclipse-on-linux/
